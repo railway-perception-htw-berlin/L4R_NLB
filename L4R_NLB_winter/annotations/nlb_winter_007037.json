@@ -1,0 +1,96 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural",
+            "urban"
+        ],
+        "light": [
+            "auto_bright_dark",
+            "natural",
+            "dark",
+            "artificial",
+            "uniform"
+        ],
+        "time_of_day": [
+            "night"
+        ],
+        "track_layout": [
+            "curve"
+        ],
+        "weather": [
+            "cloudy",
+            "snow"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 846,
+                        "y": 1082
+                    },
+                    {
+                        "x": 849,
+                        "y": 852
+                    },
+                    {
+                        "x": 843,
+                        "y": 665
+                    },
+                    {
+                        "x": 815,
+                        "y": 554
+                    },
+                    {
+                        "x": 782,
+                        "y": 515
+                    },
+                    {
+                        "x": 744,
+                        "y": 493
+                    },
+                    {
+                        "x": 699,
+                        "y": 475
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1173,
+                        "y": 1084
+                    },
+                    {
+                        "x": 1047,
+                        "y": 832
+                    },
+                    {
+                        "x": 948,
+                        "y": 659
+                    },
+                    {
+                        "x": 865,
+                        "y": 551
+                    },
+                    {
+                        "x": 809,
+                        "y": 510
+                    },
+                    {
+                        "x": 763,
+                        "y": 489
+                    },
+                    {
+                        "x": 709,
+                        "y": 473
+                    }
+                ]
+            }
+        }
+    }
+}

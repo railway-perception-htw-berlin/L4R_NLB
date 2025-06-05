@@ -1,0 +1,147 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural",
+            "station"
+        ],
+        "light": [
+            "auto_bright_dark",
+            "uniform",
+            "bright",
+            "natural"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "curve",
+            "straight"
+        ],
+        "weather": [
+            "cloudy",
+            "snow"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 885,
+                        "y": 1077
+                    },
+                    {
+                        "x": 904,
+                        "y": 460
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1205,
+                        "y": 1077
+                    },
+                    {
+                        "x": 982,
+                        "y": 617
+                    },
+                    {
+                        "x": 916,
+                        "y": 478
+                    },
+                    {
+                        "x": 908,
+                        "y": 460
+                    }
+                ]
+            }
+        },
+        "1": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 518,
+                        "y": 1076
+                    },
+                    {
+                        "x": 606,
+                        "y": 772
+                    },
+                    {
+                        "x": 641,
+                        "y": 653
+                    },
+                    {
+                        "x": 661,
+                        "y": 599
+                    },
+                    {
+                        "x": 680,
+                        "y": 570
+                    },
+                    {
+                        "x": 708,
+                        "y": 544
+                    },
+                    {
+                        "x": 732,
+                        "y": 530
+                    },
+                    {
+                        "x": 769,
+                        "y": 514
+                    },
+                    {
+                        "x": 806,
+                        "y": 498
+                    },
+                    {
+                        "x": 836,
+                        "y": 484
+                    }
+                ]
+            },
+            "relative position": "left",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 842,
+                        "y": 1076
+                    },
+                    {
+                        "x": 762,
+                        "y": 726
+                    },
+                    {
+                        "x": 737,
+                        "y": 590
+                    },
+                    {
+                        "x": 747,
+                        "y": 558
+                    },
+                    {
+                        "x": 766,
+                        "y": 537
+                    },
+                    {
+                        "x": 791,
+                        "y": 521
+                    },
+                    {
+                        "x": 819,
+                        "y": 505
+                    },
+                    {
+                        "x": 852,
+                        "y": 485
+                    }
+                ]
+            }
+        }
+    }
+}

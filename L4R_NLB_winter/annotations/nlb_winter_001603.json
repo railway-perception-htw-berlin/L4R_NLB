@@ -1,0 +1,85 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "auto_bright_dark",
+            "uniform",
+            "natural"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "curve"
+        ],
+        "weather": [
+            "snow",
+            "cloudy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 880,
+                        "y": 1079
+                    },
+                    {
+                        "x": 889,
+                        "y": 783
+                    },
+                    {
+                        "x": 895,
+                        "y": 581
+                    },
+                    {
+                        "x": 897,
+                        "y": 512
+                    },
+                    {
+                        "x": 898,
+                        "y": 481
+                    },
+                    {
+                        "x": 912,
+                        "y": 472
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1207,
+                        "y": 1081
+                    },
+                    {
+                        "x": 1061,
+                        "y": 783
+                    },
+                    {
+                        "x": 962,
+                        "y": 581
+                    },
+                    {
+                        "x": 928,
+                        "y": 512
+                    },
+                    {
+                        "x": 914,
+                        "y": 481
+                    },
+                    {
+                        "x": 923,
+                        "y": 472
+                    }
+                ]
+            }
+        }
+    }
+}

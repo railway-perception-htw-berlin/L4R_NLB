@@ -1,0 +1,85 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "underground"
+        ],
+        "light": [
+            "dark",
+            "artificial",
+            "uniform",
+            "auto_bright_dark"
+        ],
+        "time_of_day": [
+            "unknown"
+        ],
+        "track_layout": [
+            "straight"
+        ],
+        "weather": [
+            "unknown"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 900,
+                        "y": 492
+                    },
+                    {
+                        "x": 900,
+                        "y": 496
+                    },
+                    {
+                        "x": 897,
+                        "y": 560
+                    },
+                    {
+                        "x": 883,
+                        "y": 780
+                    },
+                    {
+                        "x": 873,
+                        "y": 1069
+                    },
+                    {
+                        "x": 873,
+                        "y": 1070
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 921,
+                        "y": 492
+                    },
+                    {
+                        "x": 923,
+                        "y": 496
+                    },
+                    {
+                        "x": 954,
+                        "y": 560
+                    },
+                    {
+                        "x": 1056,
+                        "y": 781
+                    },
+                    {
+                        "x": 1199,
+                        "y": 1071
+                    },
+                    {
+                        "x": 1199,
+                        "y": 1072
+                    }
+                ]
+            }
+        }
+    }
+}

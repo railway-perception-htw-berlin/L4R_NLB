@@ -1,0 +1,103 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "auto_bright_dark",
+            "natural"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "straight"
+        ],
+        "weather": [
+            "cloudy",
+            "snow"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 879,
+                        "y": 1076
+                    },
+                    {
+                        "x": 901,
+                        "y": 553
+                    },
+                    {
+                        "x": 904,
+                        "y": 460
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1211,
+                        "y": 1078
+                    },
+                    {
+                        "x": 953,
+                        "y": 553
+                    },
+                    {
+                        "x": 908,
+                        "y": 460
+                    }
+                ]
+            }
+        },
+        "1": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 824,
+                        "y": 499
+                    },
+                    {
+                        "x": 853,
+                        "y": 482
+                    },
+                    {
+                        "x": 875,
+                        "y": 469
+                    },
+                    {
+                        "x": 887,
+                        "y": 460
+                    }
+                ]
+            },
+            "relative position": "left",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 850,
+                        "y": 499
+                    },
+                    {
+                        "x": 869,
+                        "y": 482
+                    },
+                    {
+                        "x": 883,
+                        "y": 470
+                    },
+                    {
+                        "x": 891,
+                        "y": 461
+                    }
+                ]
+            }
+        }
+    }
+}

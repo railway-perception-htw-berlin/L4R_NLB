@@ -1,0 +1,85 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "underground"
+        ],
+        "light": [
+            "dark",
+            "artificial",
+            "uniform",
+            "auto_bright_dark"
+        ],
+        "time_of_day": [
+            "unknown"
+        ],
+        "track_layout": [
+            "straight"
+        ],
+        "weather": [
+            "unknown"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 896,
+                        "y": 530
+                    },
+                    {
+                        "x": 896,
+                        "y": 532
+                    },
+                    {
+                        "x": 892,
+                        "y": 648
+                    },
+                    {
+                        "x": 885,
+                        "y": 764
+                    },
+                    {
+                        "x": 872,
+                        "y": 1068
+                    },
+                    {
+                        "x": 872,
+                        "y": 1069
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 936,
+                        "y": 530
+                    },
+                    {
+                        "x": 938,
+                        "y": 532
+                    },
+                    {
+                        "x": 994,
+                        "y": 648
+                    },
+                    {
+                        "x": 1047,
+                        "y": 765
+                    },
+                    {
+                        "x": 1193,
+                        "y": 1070
+                    },
+                    {
+                        "x": 1193,
+                        "y": 1071
+                    }
+                ]
+            }
+        }
+    }
+}
