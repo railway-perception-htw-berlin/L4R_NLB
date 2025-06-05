@@ -1,0 +1,84 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "auto_bright_dark",
+            "uniform",
+            "natural"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "straight"
+        ],
+        "weather": [
+            "cloudy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 886,
+                        "y": 1075
+                    },
+                    {
+                        "x": 898,
+                        "y": 668
+                    },
+                    {
+                        "x": 901,
+                        "y": 540
+                    },
+                    {
+                        "x": 902,
+                        "y": 488
+                    },
+                    {
+                        "x": 903,
+                        "y": 466
+                    },
+                    {
+                        "x": 903,
+                        "y": 452
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1211,
+                        "y": 1077
+                    },
+                    {
+                        "x": 1009,
+                        "y": 671
+                    },
+                    {
+                        "x": 943,
+                        "y": 537
+                    },
+                    {
+                        "x": 920,
+                        "y": 488
+                    },
+                    {
+                        "x": 912,
+                        "y": 466
+                    },
+                    {
+                        "x": 907,
+                        "y": 452
+                    }
+                ]
+            }
+        }
+    }
+}

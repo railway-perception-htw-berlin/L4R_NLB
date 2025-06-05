@@ -1,0 +1,84 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "auto_bright_dark",
+            "uniform",
+            "natural"
+        ],
+        "time_of_day": [
+            "twilight"
+        ],
+        "track_layout": [
+            "curve"
+        ],
+        "weather": [
+            "cloudy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 973,
+                        "y": 1078
+                    },
+                    {
+                        "x": 1000,
+                        "y": 710
+                    },
+                    {
+                        "x": 1023,
+                        "y": 628
+                    },
+                    {
+                        "x": 1048,
+                        "y": 582
+                    },
+                    {
+                        "x": 1095,
+                        "y": 540
+                    },
+                    {
+                        "x": 1206,
+                        "y": 501
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1296,
+                        "y": 1080
+                    },
+                    {
+                        "x": 1131,
+                        "y": 704
+                    },
+                    {
+                        "x": 1114,
+                        "y": 632
+                    },
+                    {
+                        "x": 1115,
+                        "y": 586
+                    },
+                    {
+                        "x": 1126,
+                        "y": 556
+                    },
+                    {
+                        "x": 1209,
+                        "y": 508
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "switches": {
+        "0": {
+            "direction": "right",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 909,
+                    "y": 600
+                },
+                {
+                    "x": 832,
+                    "y": 536
+                }
+            ],
+            "track_ids": []
+        }
+    },
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural",
+            "urban"
+        ],
+        "light": [
+            "auto_bright_dark",
+            "uniform",
+            "natural"
+        ],
+        "time_of_day": [
+            "twilight"
+        ],
+        "track_layout": [
+            "curve",
+            "straight",
+            "parallel structures"
+        ],
+        "weather": [
+            "cloudy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 839,
+                        "y": 1079
+                    },
+                    {
+                        "x": 846,
+                        "y": 729
+                    },
+                    {
+                        "x": 834,
+                        "y": 556
+                    },
+                    {
+                        "x": 831,
+                        "y": 515
+                    },
+                    {
+                        "x": 828,
+                        "y": 502
+                    },
+                    {
+                        "x": 813,
+                        "y": 491
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1163,
+                        "y": 1079
+                    },
+                    {
+                        "x": 980,
+                        "y": 718
+                    },
+                    {
+                        "x": 894,
+                        "y": 573
+                    },
+                    {
+                        "x": 870,
+                        "y": 530
+                    },
+                    {
+                        "x": 859,
+                        "y": 512
+                    },
+                    {
+                        "x": 843,
+                        "y": 496
+                    },
+                    {
+                        "x": 823,
+                        "y": 488
+                    }
+                ]
+            }
+        },
+        "1": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 836,
+                        "y": 600
+                    },
+                    {
+                        "x": 815,
+                        "y": 555
+                    },
+                    {
+                        "x": 786,
+                        "y": 534
+                    },
+                    {
+                        "x": 746,
+                        "y": 513
+                    },
+                    {
+                        "x": 739,
+                        "y": 498
+                    }
+                ]
+            },
+            "relative position": "left",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 903,
+                        "y": 603
+                    },
+                    {
+                        "x": 873,
+                        "y": 561
+                    },
+                    {
+                        "x": 822,
+                        "y": 533
+                    },
+                    {
+                        "x": 775,
+                        "y": 514
+                    },
+                    {
+                        "x": 763,
+                        "y": 499
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural",
+            "urban"
+        ],
+        "light": [
+            "auto_bright_dark",
+            "uniform",
+            "dark",
+            "natural"
+        ],
+        "time_of_day": [
+            "twilight"
+        ],
+        "track_layout": [
+            "curve",
+            "parallel structures"
+        ],
+        "weather": [
+            "cloudy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 887,
+                        "y": 1077
+                    },
+                    {
+                        "x": 891,
+                        "y": 671
+                    },
+                    {
+                        "x": 883,
+                        "y": 579
+                    },
+                    {
+                        "x": 866,
+                        "y": 495
+                    },
+                    {
+                        "x": 857,
+                        "y": 486
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1212,
+                        "y": 1077
+                    },
+                    {
+                        "x": 998,
+                        "y": 665
+                    },
+                    {
+                        "x": 939,
+                        "y": 570
+                    },
+                    {
+                        "x": 879,
+                        "y": 493
+                    },
+                    {
+                        "x": 861,
+                        "y": 482
+                    }
+                ]
+            }
+        }
+    }
+}
