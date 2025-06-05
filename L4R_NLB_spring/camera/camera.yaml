@@ -1,0 +1,22 @@
+%YAML:1.0
+---
+width: 1920.
+height: 1080.
+f: 2000.0 
+roll: 0.0
+pitch: -2.5
+yaw: -1.4
+
+camera_matrix: !!opencv-matrix
+    rows: 3
+    cols: 3
+    dt: d
+    data: [2000., 0, 959.5, 0, 2000., 539.5, 0, 0, 1]
+
+distortion_coefficients: [ 0., 0., 0., 0., 0. ]
+
+tvec: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [ -650., -2800., 0. ]
