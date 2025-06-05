@@ -1,0 +1,103 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "auto_bright_dark",
+            "natural",
+            "bright"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "straight"
+        ],
+        "weather": [
+            "sunny"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 895,
+                        "y": 1080
+                    },
+                    {
+                        "x": 909,
+                        "y": 464
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1219,
+                        "y": 1080
+                    },
+                    {
+                        "x": 967,
+                        "y": 574
+                    },
+                    {
+                        "x": 912,
+                        "y": 464
+                    }
+                ]
+            }
+        },
+        "1": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 0,
+                        "y": 937
+                    },
+                    {
+                        "x": 145,
+                        "y": 863
+                    },
+                    {
+                        "x": 727,
+                        "y": 555
+                    },
+                    {
+                        "x": 816,
+                        "y": 508
+                    },
+                    {
+                        "x": 889,
+                        "y": 468
+                    }
+                ]
+            },
+            "relative position": "left",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 39,
+                        "y": 1078
+                    },
+                    {
+                        "x": 211,
+                        "y": 956
+                    },
+                    {
+                        "x": 753,
+                        "y": 571
+                    },
+                    {
+                        "x": 902,
+                        "y": 465
+                    }
+                ]
+            }
+        }
+    }
+}
