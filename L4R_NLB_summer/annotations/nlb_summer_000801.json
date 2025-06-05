@@ -1,0 +1,84 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "natural",
+            "hard shadows",
+            "auto_bright_dark"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "straight"
+        ],
+        "weather": [
+            "sunny"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 910,
+                        "y": 501
+                    },
+                    {
+                        "x": 909,
+                        "y": 507
+                    },
+                    {
+                        "x": 909,
+                        "y": 551
+                    },
+                    {
+                        "x": 905,
+                        "y": 717
+                    },
+                    {
+                        "x": 896,
+                        "y": 1076
+                    },
+                    {
+                        "x": 896,
+                        "y": 1077
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 924,
+                        "y": 501
+                    },
+                    {
+                        "x": 927,
+                        "y": 507
+                    },
+                    {
+                        "x": 950,
+                        "y": 551
+                    },
+                    {
+                        "x": 1033,
+                        "y": 717
+                    },
+                    {
+                        "x": 1215,
+                        "y": 1078
+                    },
+                    {
+                        "x": 1215,
+                        "y": 1079
+                    }
+                ]
+            }
+        }
+    }
+}

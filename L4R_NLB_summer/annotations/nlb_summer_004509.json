@@ -1,0 +1,84 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "natural",
+            "auto_bright_dark",
+            "uniform"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "curve"
+        ],
+        "weather": [
+            "cloudy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 988,
+                        "y": 1077
+                    },
+                    {
+                        "x": 1003,
+                        "y": 806
+                    },
+                    {
+                        "x": 1032,
+                        "y": 650
+                    },
+                    {
+                        "x": 1075,
+                        "y": 573
+                    },
+                    {
+                        "x": 1144,
+                        "y": 520
+                    },
+                    {
+                        "x": 1214,
+                        "y": 490
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1311,
+                        "y": 1079
+                    },
+                    {
+                        "x": 1182,
+                        "y": 806
+                    },
+                    {
+                        "x": 1129,
+                        "y": 650
+                    },
+                    {
+                        "x": 1135,
+                        "y": 573
+                    },
+                    {
+                        "x": 1179,
+                        "y": 520
+                    },
+                    {
+                        "x": 1237,
+                        "y": 490
+                    }
+                ]
+            }
+        }
+    }
+}

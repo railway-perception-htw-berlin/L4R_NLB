@@ -1,0 +1,84 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "natural",
+            "auto_bright_dark",
+            "uniform"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "straight"
+        ],
+        "weather": [
+            "cloudy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 910,
+                        "y": 491
+                    },
+                    {
+                        "x": 910,
+                        "y": 492
+                    },
+                    {
+                        "x": 910,
+                        "y": 531
+                    },
+                    {
+                        "x": 904,
+                        "y": 696
+                    },
+                    {
+                        "x": 896,
+                        "y": 1078
+                    },
+                    {
+                        "x": 896,
+                        "y": 1079
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 921,
+                        "y": 491
+                    },
+                    {
+                        "x": 921,
+                        "y": 492
+                    },
+                    {
+                        "x": 942,
+                        "y": 531
+                    },
+                    {
+                        "x": 1024,
+                        "y": 696
+                    },
+                    {
+                        "x": 1215,
+                        "y": 1080
+                    },
+                    {
+                        "x": 1215,
+                        "y": 1081
+                    }
+                ]
+            }
+        }
+    }
+}

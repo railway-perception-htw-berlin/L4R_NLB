@@ -1,0 +1,84 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "natural",
+            "auto_bright_dark",
+            "uniform"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "curve"
+        ],
+        "weather": [
+            "cloudy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 992,
+                        "y": 1081
+                    },
+                    {
+                        "x": 1021,
+                        "y": 687
+                    },
+                    {
+                        "x": 1074,
+                        "y": 570
+                    },
+                    {
+                        "x": 1149,
+                        "y": 516
+                    },
+                    {
+                        "x": 1202,
+                        "y": 496
+                    },
+                    {
+                        "x": 1267,
+                        "y": 479
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1317,
+                        "y": 1081
+                    },
+                    {
+                        "x": 1144,
+                        "y": 687
+                    },
+                    {
+                        "x": 1137,
+                        "y": 570
+                    },
+                    {
+                        "x": 1186,
+                        "y": 516
+                    },
+                    {
+                        "x": 1231,
+                        "y": 496
+                    },
+                    {
+                        "x": 1287,
+                        "y": 479
+                    }
+                ]
+            }
+        }
+    }
+}

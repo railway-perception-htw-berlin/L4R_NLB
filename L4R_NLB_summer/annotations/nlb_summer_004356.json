@@ -1,0 +1,85 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "natural",
+            "auto_bright_dark",
+            "uniform"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "curve",
+            "orthogonal structures"
+        ],
+        "weather": [
+            "rainy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 963,
+                        "y": 1082
+                    },
+                    {
+                        "x": 978,
+                        "y": 751
+                    },
+                    {
+                        "x": 1004,
+                        "y": 613
+                    },
+                    {
+                        "x": 1047,
+                        "y": 544
+                    },
+                    {
+                        "x": 1100,
+                        "y": 509
+                    },
+                    {
+                        "x": 1136,
+                        "y": 497
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1288,
+                        "y": 1083
+                    },
+                    {
+                        "x": 1131,
+                        "y": 751
+                    },
+                    {
+                        "x": 1087,
+                        "y": 613
+                    },
+                    {
+                        "x": 1095,
+                        "y": 544
+                    },
+                    {
+                        "x": 1133,
+                        "y": 509
+                    },
+                    {
+                        "x": 1163,
+                        "y": 497
+                    }
+                ]
+            }
+        }
+    }
+}

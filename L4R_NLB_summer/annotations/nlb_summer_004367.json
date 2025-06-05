@@ -1,0 +1,84 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "natural",
+            "hard shadows",
+            "auto_bright_dark"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "curve"
+        ],
+        "weather": [
+            "cloudy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 801,
+                        "y": 1078
+                    },
+                    {
+                        "x": 804,
+                        "y": 875
+                    },
+                    {
+                        "x": 789,
+                        "y": 687
+                    },
+                    {
+                        "x": 762,
+                        "y": 603
+                    },
+                    {
+                        "x": 743,
+                        "y": 576
+                    },
+                    {
+                        "x": 713,
+                        "y": 546
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1128,
+                        "y": 1080
+                    },
+                    {
+                        "x": 1024,
+                        "y": 876
+                    },
+                    {
+                        "x": 911,
+                        "y": 687
+                    },
+                    {
+                        "x": 842,
+                        "y": 603
+                    },
+                    {
+                        "x": 809,
+                        "y": 576
+                    },
+                    {
+                        "x": 765,
+                        "y": 546
+                    }
+                ]
+            }
+        }
+    }
+}

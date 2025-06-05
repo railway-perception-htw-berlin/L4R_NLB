@@ -1,0 +1,84 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "natural",
+            "auto_bright_dark",
+            "uniform"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "straight"
+        ],
+        "weather": [
+            "cloudy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 944,
+                        "y": 480
+                    },
+                    {
+                        "x": 944,
+                        "y": 481
+                    },
+                    {
+                        "x": 935,
+                        "y": 610
+                    },
+                    {
+                        "x": 926,
+                        "y": 816
+                    },
+                    {
+                        "x": 922,
+                        "y": 1071
+                    },
+                    {
+                        "x": 922,
+                        "y": 1072
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 953,
+                        "y": 480
+                    },
+                    {
+                        "x": 953,
+                        "y": 481
+                    },
+                    {
+                        "x": 1012,
+                        "y": 610
+                    },
+                    {
+                        "x": 1111,
+                        "y": 817
+                    },
+                    {
+                        "x": 1239,
+                        "y": 1073
+                    },
+                    {
+                        "x": 1239,
+                        "y": 1074
+                    }
+                ]
+            }
+        }
+    }
+}

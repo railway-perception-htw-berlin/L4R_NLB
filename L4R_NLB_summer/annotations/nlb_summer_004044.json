@@ -1,0 +1,84 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "natural",
+            "auto_bright_dark",
+            "uniform"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "curve"
+        ],
+        "weather": [
+            "cloudy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 920,
+                        "y": 1082
+                    },
+                    {
+                        "x": 933,
+                        "y": 750
+                    },
+                    {
+                        "x": 954,
+                        "y": 585
+                    },
+                    {
+                        "x": 977,
+                        "y": 534
+                    },
+                    {
+                        "x": 1009,
+                        "y": 510
+                    },
+                    {
+                        "x": 1031,
+                        "y": 499
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1239,
+                        "y": 1081
+                    },
+                    {
+                        "x": 1079,
+                        "y": 750
+                    },
+                    {
+                        "x": 1014,
+                        "y": 585
+                    },
+                    {
+                        "x": 1011,
+                        "y": 534
+                    },
+                    {
+                        "x": 1030,
+                        "y": 510
+                    },
+                    {
+                        "x": 1045,
+                        "y": 499
+                    }
+                ]
+            }
+        }
+    }
+}

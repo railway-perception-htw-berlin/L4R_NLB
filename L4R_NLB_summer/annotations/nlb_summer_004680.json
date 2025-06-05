@@ -1,0 +1,84 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "rural"
+        ],
+        "light": [
+            "natural",
+            "auto_bright_dark",
+            "uniform"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "curve"
+        ],
+        "weather": [
+            "cloudy"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 969,
+                        "y": 1076
+                    },
+                    {
+                        "x": 985,
+                        "y": 777
+                    },
+                    {
+                        "x": 1023,
+                        "y": 620
+                    },
+                    {
+                        "x": 1075,
+                        "y": 552
+                    },
+                    {
+                        "x": 1129,
+                        "y": 522
+                    },
+                    {
+                        "x": 1181,
+                        "y": 504
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1288,
+                        "y": 1078
+                    },
+                    {
+                        "x": 1149,
+                        "y": 777
+                    },
+                    {
+                        "x": 1107,
+                        "y": 620
+                    },
+                    {
+                        "x": 1127,
+                        "y": 552
+                    },
+                    {
+                        "x": 1167,
+                        "y": 522
+                    },
+                    {
+                        "x": 1210,
+                        "y": 504
+                    }
+                ]
+            }
+        }
+    }
+}

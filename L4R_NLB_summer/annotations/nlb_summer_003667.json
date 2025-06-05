@@ -1,0 +1,69 @@
+{
+    "switches": {},
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [
+            "underground"
+        ],
+        "light": [
+            "natural",
+            "hard shadows",
+            "dark",
+            "auto_bright_dark"
+        ],
+        "time_of_day": [
+            "day"
+        ],
+        "track_layout": [
+            "curve"
+        ],
+        "weather": [
+            "unknown"
+        ]
+    },
+    "tracks": {
+        "0": {
+            "left rail": {
+                "points": [
+                    {
+                        "x": 940,
+                        "y": 1082
+                    },
+                    {
+                        "x": 954,
+                        "y": 824
+                    },
+                    {
+                        "x": 972,
+                        "y": 667
+                    },
+                    {
+                        "x": 988,
+                        "y": 608
+                    }
+                ]
+            },
+            "relative position": "ego",
+            "right rail": {
+                "points": [
+                    {
+                        "x": 1268,
+                        "y": 1082
+                    },
+                    {
+                        "x": 1142,
+                        "y": 824
+                    },
+                    {
+                        "x": 1076,
+                        "y": 667
+                    },
+                    {
+                        "x": 1060,
+                        "y": 608
+                    }
+                ]
+            }
+        }
+    }
+}
