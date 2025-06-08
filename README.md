@@ -2,7 +2,7 @@
 Dataset for machine learning for railway, which is based on footage from a Norwegian TV format that documents the train ride between Trondheim and Bodø in four different seasons. For more details please refer REFERENCE TO PAPER.
 
 ## Structure of Dataset tree
-The dataset is split into four parts according to the season the images were taken. For each part images and annotations are provided in separate directories. The annotations are json files containing the image coordinates of tracks and switches and also a list of tags describing the scene. Addidtionally there is a camera matrix, which is needed to cerrectly create the masks from the json annotations or visualize the annotations with the tool Labels4Rails.
+The dataset is split into four parts according to the season the images were taken. For each part images and annotations are provided in separate directories. The annotations are json files containing the image coordinates of tracks and switches and also a list of tags describing the scene. Addidtionally there is a camera matrix, which is needed to cerrectly create the masks from the json annotations or visualize the annotations with the tool Labels4Rails. Please note that images are not provided on github due its memory limit, but can be downloaded from Zenodo PROVIDE LINK. However, annotations might be more up to date on github.
 
 ```bash
 Dataset_root
