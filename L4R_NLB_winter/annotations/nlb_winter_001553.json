@@ -1,20 +1,5 @@
 {
     "switches": {
-        "0": {
-            "direction": "unknown",
-            "kind": "unknown",
-            "marks": [
-                {
-                    "x": 768,
-                    "y": 493
-                },
-                {
-                    "x": 832,
-                    "y": 508
-                }
-            ],
-            "track_ids": []
-        },
         "1": {
             "direction": "unknown",
             "kind": "merge",
@@ -26,6 +11,36 @@
                 {
                     "x": 924,
                     "y": 492
+                }
+            ],
+            "track_ids": []
+        },
+        "2": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 832,
+                    "y": 494
+                },
+                {
+                    "x": 792,
+                    "y": 502
+                }
+            ],
+            "track_ids": []
+        },
+        "3": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 831,
+                    "y": 495
+                },
+                {
+                    "x": 781,
+                    "y": 503
                 }
             ],
             "track_ids": []

@@ -1,20 +1,5 @@
 {
     "switches": {
-        "0": {
-            "direction": "unknown",
-            "kind": "unknown",
-            "marks": [
-                {
-                    "x": 839,
-                    "y": 475
-                },
-                {
-                    "x": 867,
-                    "y": 481
-                }
-            ],
-            "track_ids": []
-        },
         "1": {
             "direction": "unknown",
             "kind": "merge",
@@ -29,6 +14,24 @@
                 }
             ],
             "track_ids": []
+        },
+        "2": {
+            "direction": "unknown",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 853,
+                    "y": 474
+                },
+                {
+                    "x": 860,
+                    "y": 475
+                }
+            ],
+            "track_ids": [
+                1,
+                2
+            ]
         }
     },
     "tag groups": {
